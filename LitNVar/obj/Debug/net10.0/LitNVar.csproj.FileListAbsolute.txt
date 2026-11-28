@@ -1,0 +1,15 @@
+E:\repos\xAbduMa\mslcs\LitNVar\bin\Debug\net10.0\LitNVar.exe
+E:\repos\xAbduMa\mslcs\LitNVar\bin\Debug\net10.0\LitNVar.deps.json
+E:\repos\xAbduMa\mslcs\LitNVar\bin\Debug\net10.0\LitNVar.runtimeconfig.json
+E:\repos\xAbduMa\mslcs\LitNVar\bin\Debug\net10.0\LitNVar.dll
+E:\repos\xAbduMa\mslcs\LitNVar\bin\Debug\net10.0\LitNVar.pdb
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\LitNVar.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\LitNVar.AssemblyInfoInputs.cache
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\LitNVar.AssemblyInfo.cs
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\LitNVar.csproj.CoreCompileInputs.cache
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\LitNVar.sourcelink.json
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\LitNVar.dll
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\refint\LitNVar.dll
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\LitNVar.pdb
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\LitNVar.genruntimeconfig.cache
+E:\repos\xAbduMa\mslcs\LitNVar\obj\Debug\net10.0\ref\LitNVar.dll
